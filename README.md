@@ -1,3 +1,4 @@
+<img src="https://github.com/user-attachments/assets/e96bbbb8-5afe-413d-ab6d-51129a1335c0" style="width: 100%;">
 
 # Hey 👋, I'm Dawid
 
