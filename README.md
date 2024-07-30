@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/e96bbbb8-5afe-413d-ab6d-51129a1335c0" style="width: 100%;">
-
 # Hey 👋, I'm Dawid
 
 I am a high school student from Poland and a (hopefully) up and coming Software Developer. Feel free to contact me on [Discord](https://discord.com/users/835958079521554503)
