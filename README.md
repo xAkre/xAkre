@@ -51,20 +51,5 @@ I am a high school student from Poland and a (hopefully) up and coming Software 
 
 # 
 <br>
-<div>
-
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=xAkre&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0a0a0a&title_color=f5f5f5&icon_color=f5f5f5" alt="Github Stats" height="170px">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=xAkre&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0a0a0a&title_color=f5f5f5&icon_color=f5f5f5&hide=Jupyter%20Notebook,Roff" alt="Top Languages" height="170px">
-
-</div>
-
-# 
-<br>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=xAkre&bg_color=0a0a0a&color=f5f5f5&line=f5f5f5&point=f5f5f5&hide_border=true)
-
-## My recently played songs on Spotify
-
-![Recently Played On Spotify](https://spotify-recently-played-readme.vercel.app/api?user=217xsj4g33qrrvlt7bj4e67vq)
-
-</div>
