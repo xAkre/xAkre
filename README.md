@@ -2,66 +2,66 @@
 
 I am a high school student from Poland and a (hopefully) up and coming Software Developer. Feel free to contact me on [Discord](https://discord.com/users/835958079521554503)
 
-[![Discord](https://lanyard.cnrad.dev/api/835958079521554503?bg=1F222E)](https://discord.com/users/835958079521554503)
+[![Discord](https://lanyard.cnrad.dev/api/835958079521554503?bg=0a0a0a)](https://discord.com/users/835958079521554503)
 
 ## Some languages i use
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=f5f5f5)
+![CSS](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=f5f5f5)
+![HTML](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=f5f5f5)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=f5f5f5)
+![Javascript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=f5f5f5)
+![Typescript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=f5f5f5)
 
 ## Some technologies and frameworks i use
 
-![Bun](https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df)
-![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Bun](https://img.shields.io/badge/bun-0a0a0a?style=for-the-badge&logo=bun&logoColor=f5f5f5)
+![Express.js](https://img.shields.io/badge/Express%20js-0a0a0a?style=for-the-badge&logo=express&logoColor=f5f5f5)
+![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=f5f5f5)
+![Firebase](https://img.shields.io/badge/firebase-0a0a0a?style=for-the-badge&logo=firebase&logoColor=f5f5f5)
+![Heroku](https://img.shields.io/badge/Heroku-0a0a0a?style=for-the-badge&logo=heroku&logoColor=f5f5f5)
+![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=f5f5f5)
+![Jest](https://img.shields.io/badge/Jest-0a0a0a?style=for-the-badge&logo=jest&logoColor=f5f5f5)
+![Markdown](https://img.shields.io/badge/Markdown-0a0a0a?style=for-the-badge&logo=markdown&logoColor=f5f5f5)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=f5f5f5)
+![Node.js](https://img.shields.io/badge/Node%20js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=f5f5f5)
+![Postgres](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=f5f5f5)
+![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=Postman&logoColor=f5f5f5)
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=f5f5f5)
+![SQLite](https://img.shields.io/badge/Sqlite-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=f5f5f5)
+![Svelte](https://img.shields.io/badge/Svelte-0a0a0a?style=for-the-badge&logo=svelte&logoColor=f5f5f5)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-0a0a0a?style=for-the-badge&logo=Svelte&logoColor=f5f5f5)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=for-the-badge&logo=tailwind-css&logoColor=f5f5f5)
+![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=f5f5f5)
 
 ## I would like to learn
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
-![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
-![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)
-![Zig](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=f5f5f5)
+![GraphQL](https://img.shields.io/badge/GraphQl-0a0a0a?style=for-the-badge&logo=graphql&logoColor=f5f5f5)
+![Kotlin](https://img.shields.io/badge/Kotlin-0a0a0a?style=for-the-badge&logo=kotlin&logoColor=f5f5f5)
+![Next.js](https://img.shields.io/badge/next%20js-0a0a0a?style=for-the-badge&logo=nextdotjs&logoColor=f5f5f5)
+![Rust](https://img.shields.io/badge/Rust-0a0a0a?style=for-the-badge&logo=rust&logoColor=f5f5f5)
+![Three.js](https://img.shields.io/badge/ThreeJs-0a0a0a?style=for-the-badge&logo=three.js&logoColor=f5f5f5)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-0a0a0a?style=for-the-badge&logo=WebAssembly&logoColor=f5f5f5)
+![Zig](https://img.shields.io/badge/zig-0a0a0a?style=for-the-badge&logo=zig&logoColor=f5f5f5)
 
 ## Some of my stats
 
-![Streak Stats](https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=xAkre&theme=monokai-metallian&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=xAkre&hide_border=true&background=0a0a0a&stroke=f5f5f5&ring=f5f5f5&fire=f5f5f5&currStreakNum=f5f5f5&sideNums=e5e5e5&currStreakLabel=e5e5e5&sideLabels=d4d4d4&dates=d4d4d4&excludeDayLabel=d4d4d4)
 
 # 
 <br>
 <div>
 
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=xAkre&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Github Stats" height="170px">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=xAkre&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" alt="Top Languages" height="170px">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=xAkre&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0a0a0a&title_color=f5f5f5&icon_color=f5f5f5" alt="Github Stats" height="170px">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=xAkre&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0a0a0a&title_color=f5f5f5&icon_color=f5f5f5&hide=Jupyter%20Notebook,Roff" alt="Top Languages" height="170px">
 
 </div>
 
 # 
 <br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=xAkre&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=xAkre&bg_color=0a0a0a&color=f5f5f5&line=f5f5f5&point=f5f5f5&hide_border=true)
 
 ## My recently played songs on Spotify
 
