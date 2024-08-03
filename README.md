@@ -1,6 +1,7 @@
 # Hey 👋, I'm Dawid
 
 I am a high school student from Poland and a (hopefully) up and coming Software Developer. Feel free to contact me on [Discord](https://discord.com/users/835958079521554503)
+<br><br>
 
 [![Discord](https://lanyard.cnrad.dev/api/835958079521554503?bg=0a0a0a)](https://discord.com/users/835958079521554503)
 
@@ -46,10 +47,10 @@ I am a high school student from Poland and a (hopefully) up and coming Software 
 ![Zig](https://img.shields.io/badge/zig-0a0a0a?style=for-the-badge&logo=zig&logoColor=f5f5f5)
 
 ## Some of my stats
-
-![Streak Stats](https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=xAkre&hide_border=true&background=0a0a0a&stroke=f5f5f5&ring=f5f5f5&fire=f5f5f5&currStreakNum=f5f5f5&sideNums=e5e5e5&currStreakLabel=e5e5e5&sideLabels=d4d4d4&dates=d4d4d4&excludeDayLabel=d4d4d4)
-
-# 
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=xAkre&hide_border=true&background=0a0a0a&stroke=f5f5f5&ring=f5f5f5&fire=f5f5f5&currStreakNum=f5f5f5&sideNums=e5e5e5&currStreakLabel=e5e5e5&sideLabels=d4d4d4&dates=d4d4d4&excludeDayLabel=d4d4d4" alt="Streak Stats">
+</div>
 <br>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=xAkre&bg_color=0a0a0a&color=f5f5f5&line=f5f5f5&point=f5f5f5&hide_border=true)
