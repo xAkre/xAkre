@@ -17,6 +17,7 @@ I am a high school student from Poland and a (hopefully) up and coming Software 
 ## Some technologies and frameworks i use
 
 ![Bun](https://img.shields.io/badge/bun-0a0a0a?style=for-the-badge&logo=bun&logoColor=f5f5f5)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=f5f5f5)
 ![Express.js](https://img.shields.io/badge/Express%20js-0a0a0a?style=for-the-badge&logo=express&logoColor=f5f5f5)
 ![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=f5f5f5)
 ![Firebase](https://img.shields.io/badge/firebase-0a0a0a?style=for-the-badge&logo=firebase&logoColor=f5f5f5)
@@ -37,7 +38,6 @@ I am a high school student from Poland and a (hopefully) up and coming Software 
 
 ## I would like to learn
 
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=f5f5f5)
 ![GraphQL](https://img.shields.io/badge/GraphQl-0a0a0a?style=for-the-badge&logo=graphql&logoColor=f5f5f5)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0a0a0a?style=for-the-badge&logo=kotlin&logoColor=f5f5f5)
 ![Next.js](https://img.shields.io/badge/next%20js-0a0a0a?style=for-the-badge&logo=nextdotjs&logoColor=f5f5f5)
