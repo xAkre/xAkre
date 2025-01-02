@@ -17,8 +17,10 @@ I am a high school student from Poland and a (hopefully) up and coming Software 
 ## Some technologies and frameworks i use
 
 ![Bun](https://img.shields.io/badge/bun-0a0a0a?style=for-the-badge&logo=bun&logoColor=f5f5f5)
+![Django](https://img.shields.io/badge/Django-0a0a0a?style=for-the-badge&logo=django&logoColor=f5f5f5)
 ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=f5f5f5)
 ![Express.js](https://img.shields.io/badge/Express%20js-0a0a0a?style=for-the-badge&logo=express&logoColor=f5f5f5)
+![FastAPI](https://img.shields.io/badge/fastapi-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=f5f5f5)
 ![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=f5f5f5)
 ![Firebase](https://img.shields.io/badge/firebase-0a0a0a?style=for-the-badge&logo=firebase&logoColor=f5f5f5)
 ![Heroku](https://img.shields.io/badge/Heroku-0a0a0a?style=for-the-badge&logo=heroku&logoColor=f5f5f5)
@@ -28,7 +30,7 @@ I am a high school student from Poland and a (hopefully) up and coming Software 
 ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=f5f5f5)
 ![Node.js](https://img.shields.io/badge/Node%20js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=f5f5f5)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=f5f5f5)
-![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=Postman&logoColor=f5f5f5)
+![Pydantic](https://img.shields.io/badge/Pydantic-0a0a0a?style=for-the-badge&logo=pydantic&logoColor=f5f5f5)
 ![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=f5f5f5)
 ![SQLite](https://img.shields.io/badge/Sqlite-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=f5f5f5)
 ![Svelte](https://img.shields.io/badge/Svelte-0a0a0a?style=for-the-badge&logo=svelte&logoColor=f5f5f5)
