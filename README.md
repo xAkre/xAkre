@@ -1,6 +1,6 @@
 # Hey 👋, I'm Dawid
 
-I am a high school student from Poland and a (hopefully) up and coming Software Developer. Feel free to contact me on [Discord](https://discord.com/users/835958079521554503)
+Feel free to contact me on [Discord](https://discord.com/users/835958079521554503)
 <br><br>
 
 [![Discord](https://lanyard.cnrad.dev/api/835958079521554503?bg=0a0a0a)](https://discord.com/users/835958079521554503)
