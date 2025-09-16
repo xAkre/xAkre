@@ -1,10 +1,5 @@
 # Hey 👋, I'm Dawid
 
-Feel free to contact me on [Discord](https://discord.com/users/835958079521554503)
-<br><br>
-
-[![Discord](https://lanyard.cnrad.dev/api/835958079521554503?bg=0a0a0a)](https://discord.com/users/835958079521554503)
-
 ## Some languages i use
 
 ![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=f5f5f5)
